@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1> Vítejte v laravelu </h1>
+    <h1> Vítejte v laravelu chlapi </h1>
 </body>
 </html>
